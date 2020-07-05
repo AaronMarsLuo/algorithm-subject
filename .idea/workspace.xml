@@ -2,29 +2,173 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebaa3a7e-6a76-4562-8b36-92fd85294ead" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que19_删除链表的倒数第N个节点$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que19_删除链表的倒数第N个节点$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que19_删除链表的倒数第N个节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que19_删除链表的倒数第N个节点.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树的镜像.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树的镜像.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/重建二叉树$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/重建二叉树$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/重建二叉树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/重建二叉树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Que19_删除链表的倒数第N个节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Que19_删除链表的倒数第N个节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/二叉搜索树的后序遍历序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/二叉搜索树的后序遍历序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/二叉树的镜像.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/重建二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题08_01_三步问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题08_01_三步问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题08_02_迷路的机器人.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题08_02_迷路的机器人.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题08_11_硬币.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题08_11_硬币.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题12_矩阵中的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题12_矩阵中的路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题14_1剪绳子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题14_1剪绳子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题14_2_剪绳子2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题14_2_剪绳子2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题16_17_连续数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题16_17_连续数列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题17_16_按摩师.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题17_16_按摩师.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题17_23_最大黑方阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题17_23_最大黑方阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题19_正则表达式匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题19_正则表达式匹配.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题42_连续子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题42_连续子数组的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题47_礼物的最大价值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题47_礼物的最大价值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/面试题63_股票的最大利润.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/面试题63_股票的最大利润.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyLeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/META-INF/MyLeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que101_对称二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que101_对称二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que102_二叉树的层次遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que102_二叉树的层次遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que104_二叉树的最大深度$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que104_二叉树的最大深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que105_从前序与中序遍历序列构造二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que105_从前序与中序遍历序列构造二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que1139_最大的以1为边界的正方形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que11_盛最多水的容器.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que121_买卖股票的最佳时机.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que136_只出现一次的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que13_罗马数字转整数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que141_环形链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que141_环形链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que148_排序链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que148_排序链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que14_最长公共前缀.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que153_寻找旋转排序数组中的最小值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que154_寻找旋转排序数组中的最小值2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que155_最小栈.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que15_三数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que160_相交链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que160_相交链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que169_多数元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que17_电话号码的字母组合$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que17_电话号码的字母组合.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que198_打家劫舍.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que19_删除链表的倒数第N个节点$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que19_删除链表的倒数第N个节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que1_两数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que206_反转链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que206_反转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que20_有效的括号.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que21_合并两个有序链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que21_合并两个有序链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que221_最大正方形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que226_翻转二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que226_翻转二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que22_括号生成.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que234_回文链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que234_回文链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que23_合并K个排序链表$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que23_合并K个排序链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que23_合并K个排序链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que26_删除排序数组中的重复项.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que27_移除元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que283_移动零.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que28_实现strStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que2_两数相加$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que2_两数相加.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que31_下一个排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que33_搜索旋转排序数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que34_在排序数组中查找元素的第一个和最后一个位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que35_搜索插入位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que38_外观数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que39_组合总和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que3_无重复字符的最长子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que437_路径总和3$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que437_路径总和3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que461_汉明距离.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que46_全排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que47_全排列2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que49_字母异位词分组$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que49_字母异位词分组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que538_把二叉搜索树转换为累加树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que538_把二叉搜索树转换为累加树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que53_最大子序和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que543_二叉树的直径$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que543_二叉树的直径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que55_跳跃游戏.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que581_最短无序连续子数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que58_最后一个单词的长度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que5_最长回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que60_第k个排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que617_合并二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que617_合并二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que66_加一.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que67_二进制求和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que69_x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que70_爬楼梯.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que7_整数反转.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que81_搜索旋转排序数组2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que83_删除排序链表中的重复元素$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que83_删除排序链表中的重复元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que85_最大矩形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que88_合并两个有序数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que94_二叉树的中序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que94_二叉树的中序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que98_验证二叉搜索树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que98_验证二叉搜索树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Que9_回文数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/Qur448_找到所有数组中消失的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题08_01_三步问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题08_02_迷路的机器人$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题08_02_迷路的机器人.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题08_11_硬币.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题12_矩阵中的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题14_1剪绳子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题14_2_剪绳子2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题16_17_连续数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题17_16_按摩师.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题17_23_最大黑方阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题19_正则表达式匹配.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题42_连续子数组的最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题47_礼物的最大价值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/leetcode/面试题63_股票的最大利润.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/KMP算法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/asdfsd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/二分查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/十大排序算法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/和为0的三元组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/按数量K反转链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/按数量K反转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/求数组子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/求最大公约数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/输出二叉排序树中第k大的树$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/其他/输出二叉排序树中第k大的树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉搜索树与双向链表$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉搜索树与双向链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉搜索树的后序遍历序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树中和为某一值的路径$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树中和为某一值的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树的镜像$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树的镜像.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二叉树遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二维数组中的查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/二进制中1的个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/从上往下打印二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/从上往下打印二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/从尾到头打印链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/从尾到头打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/值的整数次方.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/包含min函数的栈.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/反转整数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/反转链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/反转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/变态跳台阶.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/合并两个排序的链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/合并两个排序的链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/复杂链表的复制$RandomListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/复杂链表的复制.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/旋转数组的最小数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/替换空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/栈的压入_弹出序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/树的子结构$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/树的子结构.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/用两个栈实现一个队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/矩形覆盖.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/调整数组顺序使奇数位于偶数前面.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/跳台阶.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/重建二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/链表中倒数第k个结点$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/链表中倒数第k个结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/剑指offer/顺时针打印矩阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/华为在线机试题/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/华为在线机试题/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/华为在线机试题/字符串最后一个单词的长度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/华为在线机试题/计算字符个数.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,14 +233,28 @@
       <recent name="$PROJECT_DIR$/sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.asdfsd">
+  <component name="RunManager" selected="Application.Que1_两数之和">
     <configuration name="顺时针打印矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="剑指offer.顺时针打印矩阵" />
-      <module name="MyLeetCode" />
+      <module name="algorithm-subject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Que1_两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Que1_两数之和" />
+      <module name="algorithm-subject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,7 +368,7 @@
     </configuration>
     <configuration name="asdfsd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="其他.asdfsd" />
-      <module name="MyLeetCode" />
+      <module name="algorithm-subject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -224,7 +382,7 @@
     </configuration>
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="华为在线机试题.test1" />
-      <module name="MyLeetCode" />
+      <module name="algorithm-subject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -238,7 +396,7 @@
     </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="华为在线机试题.test2" />
-      <module name="MyLeetCode" />
+      <module name="algorithm-subject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -271,9 +429,11 @@
       <item itemvalue="Application.asdfsd" />
       <item itemvalue="Application.test1" />
       <item itemvalue="Application.test2" />
+      <item itemvalue="Application.Que1_两数之和" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Que1_两数之和" />
         <item itemvalue="Application.asdfsd" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application.test1" />
@@ -323,22 +483,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592396173286" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593955223906">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593956741806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593955223906" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593955223906">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593956741806" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593956741806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593955223906" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593955223906">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593956741806" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593956741805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593955223906" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593955223906">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593956741805" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593956741806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593955223906" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593956741806" />
     <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1589889865612">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -359,6 +519,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588916323870" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593956764108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593956764108" />
     <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1589618722602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
